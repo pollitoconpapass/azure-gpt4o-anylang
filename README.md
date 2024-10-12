@@ -93,8 +93,8 @@ Fine tuning Azure gpt-4o model understand and answer in a new language using Pyt
     ![alt text](4o-ft.gif)
 
 
-    >[!NOTE]
-    > As Training Data select the `training_set.jsonl` and as Validation Data `validation_set.jsonl`. They should be uploaded to Azure AI Studio for you to choose.
+>[!NOTE]
+> As Training Data select the `training_set.jsonl` and as Validation Data `validation_set.jsonl`. They should be uploaded to Azure AI Studio for you to choose.
 
 
 

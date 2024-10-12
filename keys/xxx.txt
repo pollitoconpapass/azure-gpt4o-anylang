@@ -1,0 +1,1 @@
+Upload in this folder the Cloud Translate Authorization JSON 

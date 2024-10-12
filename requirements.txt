@@ -1,0 +1,9 @@
+datasets==2.17.0
+gradio==4.44.0
+numpy==1.26.4
+pandas==1.5.3
+peft==0.12.0
+protobuf==3.20.3
+tiktoken==0.7.0
+transformers==4.44.2
+unsloth==2024.8

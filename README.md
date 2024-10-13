@@ -96,7 +96,10 @@ Fine tuning Azure gpt-4o model understand and answer in a new language using Pyt
 >[!NOTE]
 > As Training Data select the `training_set.jsonl` and as Validation Data `validation_set.jsonl`. They should be uploaded to Azure AI Studio for you to choose.
 
+## 🤖 Demo
+I asked gpt-4o to act as a translator from Quechua (the language I chose) to Spanish
 
+![alt text](4o-finetuned-image.png)
 
 ## 📚 References
 - [Microsoft Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune?tabs=python-new%2Ccommand-line)
